@@ -1,6 +1,6 @@
 ## The Proposal - A minimalist’s choice for Christmas food
 
-A minimalist’s choice for Christmas food is algorithm / application helps you find a Christmas recipes according to what ingredient you have.
+A minimalist’s choice for Christmas food is algorithm / application helps you find a Christmas recipes according to what ingredients you have in hand.
 
 
 ### Thinking behind
