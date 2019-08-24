@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## The Proposal - A minimalist’s choice for Christmas food
 
-You can use the [editor on GitHub](https://github.com/elizabeth2222/MCIT_Hackathon_Summer2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A minimalist’s choice for Christmas food is algorithm / application helps you find a Christmas recipes according to what ingredient you have.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Thinking behind
+There are a lot of recipe help you to cook the food you want, while you have to go and purchase the right amount of ingredients. And after cooking, you might have some ingredients left and they usually will "sleep" in your refrigerator forever. The proposal of an algorithm / application is to help you try a minimalist way. Don't waste the ingredients and make your food according to what ingredient you have.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Dataset
+For this hackathon, we are able to find open data on Kaggle. It is a dataset of recipes with ingredients in exact amount for Christmas occasion. 
+```[Link](https://www.kaggle.com/gjbroughton/christmas-recipes)```
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Further Application with more data
+We can adapt the algorithm later if we have recipes for other occasions available. 
+For example: Gym occasion recipes, a weekly recipe set, seasonal food, customized recipes based on ingredients you grow at home, etc.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### How It Works
+xxxx
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elizabeth2222/MCIT_Hackathon_Summer2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### The Team
+xxxx
