@@ -1,9 +1,14 @@
 import json
 
 
-def json_to_dict(input_json):
-    pass
+def parse_json(input_json):
+    json_objects = []
+    with open(input_json) as json_file:
+        for json_string in json_file:
+            json_objects.append(json.loads(json_string))
+
+    return json_objects
 
 
 if __name__ == '__main__':
-    json_to_dict('../data/christmas_recipes.json')
+    parse_json('../data/christmas_recipes.json')
